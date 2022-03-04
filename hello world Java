@@ -1,0 +1,13 @@
+public class Main {
+
+ // Hello World Java
+ //Learning Java 
+
+    public void test(String args) {
+        System.out.println(args);
+    }
+
+    public static void main(String[] args) {
+        test("Hello World I'm Learning Java"); //:earning Java 
+    }
+}
