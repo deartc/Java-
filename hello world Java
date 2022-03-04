@@ -8,6 +8,6 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        test("Hello World I'm Learning Java"); //:earning Java 
+        test("Hello World I'm Learning Java"); //Learning Java 
     }
 }
